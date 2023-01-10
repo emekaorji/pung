@@ -19,5 +19,5 @@ import 'array-pung';
 ```
 
 # CREDITS
-The first version was created by [Ikechi Michael]('https://github.com/mykeels').
-Check it out [here]('https://github.com/mykeels/ArraysJS')
+The first version was created by [Ikechi Michael](https://github.com/mykeels).
+Check it out [here](https://github.com/mykeels/ArraysJS)
