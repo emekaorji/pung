@@ -1,0 +1,23 @@
+{
+	"name": "array-pung",
+	"version": "1.0.0",
+	"description": "Array methods built on top off existing array prototype",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/emekaorji/pung.git"
+	},
+	"keywords": [
+		"Array",
+		"manipulation"
+	],
+	"author": "Emeka Orji",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/emekaorji/pung/issues"
+	},
+	"homepage": "https://github.com/emekaorji/pung#readme"
+}
